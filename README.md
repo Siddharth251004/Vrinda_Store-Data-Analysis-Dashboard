@@ -1,2 +1,3 @@
 # Vrinda_Store-Data-Analysis-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and graphs to analyze the data. This process involved several stages, include data processing, data cleaning and data visualization.
+## Project Objective
+The Vrinda stores wants to create an annual sales report for 2022. So, that the owner of vrinda store can understand their customers and grow more sales in 2023 & 2024.
